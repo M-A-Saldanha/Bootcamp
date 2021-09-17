@@ -1,0 +1,13 @@
+C:\Marco\Aulas\Decola tech\dotnet\primeiraAula\bin\Debug\netcoreapp3.1\primeiraAula.exe
+C:\Marco\Aulas\Decola tech\dotnet\primeiraAula\bin\Debug\netcoreapp3.1\primeiraAula.deps.json
+C:\Marco\Aulas\Decola tech\dotnet\primeiraAula\bin\Debug\netcoreapp3.1\primeiraAula.runtimeconfig.json
+C:\Marco\Aulas\Decola tech\dotnet\primeiraAula\bin\Debug\netcoreapp3.1\primeiraAula.runtimeconfig.dev.json
+C:\Marco\Aulas\Decola tech\dotnet\primeiraAula\bin\Debug\netcoreapp3.1\primeiraAula.dll
+C:\Marco\Aulas\Decola tech\dotnet\primeiraAula\bin\Debug\netcoreapp3.1\primeiraAula.pdb
+C:\Marco\Aulas\Decola tech\dotnet\primeiraAula\obj\Debug\netcoreapp3.1\primeiraAula.csprojAssemblyReference.cache
+C:\Marco\Aulas\Decola tech\dotnet\primeiraAula\obj\Debug\netcoreapp3.1\primeiraAula.AssemblyInfoInputs.cache
+C:\Marco\Aulas\Decola tech\dotnet\primeiraAula\obj\Debug\netcoreapp3.1\primeiraAula.AssemblyInfo.cs
+C:\Marco\Aulas\Decola tech\dotnet\primeiraAula\obj\Debug\netcoreapp3.1\primeiraAula.csproj.CoreCompileInputs.cache
+C:\Marco\Aulas\Decola tech\dotnet\primeiraAula\obj\Debug\netcoreapp3.1\primeiraAula.dll
+C:\Marco\Aulas\Decola tech\dotnet\primeiraAula\obj\Debug\netcoreapp3.1\primeiraAula.pdb
+C:\Marco\Aulas\Decola tech\dotnet\primeiraAula\obj\Debug\netcoreapp3.1\primeiraAula.genruntimeconfig.cache
