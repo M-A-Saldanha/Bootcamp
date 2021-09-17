@@ -8,7 +8,7 @@ namespace primeiraAula
         {
             Console.WriteLine("Hello World!");
 
-            int numeDeVezes = 5;
+            int numeDeVezes = 12;
 
             for(int i=0; i < numeDeVezes;i++)
             {
